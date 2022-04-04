@@ -1,5 +1,9 @@
 class App {
-    constructor(){
-        
+   /* constructor(){
+        interfaz.mostrarImagen();
     }
-}
+
+    click(){
+        interfaz.click();
+    }
+}*/
