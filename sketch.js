@@ -5,7 +5,7 @@ let screensCounter = 0;
 let labrinthCanciones = [];
 let charlotteCanciones = [];
 
-
+//lll
 
   /*  canciones[1] = loadSound("charlotte-day-wilson-keep-moving.mp3");
   canciones[2] = loadSound("charlotte-day-wilson-work-euphoria-ost.mp3");
