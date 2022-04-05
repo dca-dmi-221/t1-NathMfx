@@ -1,20 +1,19 @@
 class Cancion{
-    /*constructor({
-        nombre,
-        cancion,
-        artista,
-        cover,        
-    }){
-        this._nombre = nombre;
-        this._cancion = cancion;
-        this._artista = artista;
-        this._cover = cover;
-        this._inSelected = false;
+    constructor(nombre, duracion, artista, x, y, pos){
+        this.nombre = nombre;
+        this.duracion = duracion;
+        this.artista = artista;
+        this.x = x;
+        this.y = y;
+        this.pos = pos;
     }
-    mostrar(i){
+    /*mostrar(i){
         const apagadoY = 60 * i;
         if (this.isMouseOver(i)){
             
         }
-    }*/
-}
+    }
+}function preload(){
+    canciones = loadSound('charlotte-day-wilson-changes.mp3');
+    canciones.setVolume(0.5);
+boton = createButton("play.png");*/}
