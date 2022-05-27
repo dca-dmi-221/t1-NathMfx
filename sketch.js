@@ -76,6 +76,7 @@ if (screensCounter == 0){
 
   if (dist(640, 680,mouseX, mouseY) <= 100) {
     console.log("Diosito ya llevame :C")
+    console.log("Nuuuu")
     screensCounter = 1;
   }
 }
